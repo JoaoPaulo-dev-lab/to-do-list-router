@@ -6,8 +6,8 @@
             <router-link to="/" class="btn btn-link">Home</router-link>
             <router-link to="/display" class="btn btn-link">Tarefas</router-link>
             <img class="img-responsive" src="@/assets/task.png" alt="CoffeeTagTodo" />
-            <a href="#" class="btn btn-link">Twitter</a>
-            <a href="#" class="btn btn-link">GitHub</a>
+            <a href="https://my-portfolio-dev-a4a9c.web.app/" class="btn btn-link">Portfolio</a>
+            <a href="https://github.com/JoaoPaulo-dev-lab" class="btn btn-link">GitHub</a>
         </section>
       </header>
     </div>
